@@ -1,6 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.ytimg.com/vi/if-2M3K1tqk/maxresdefault.jpg" height="175px"/></a>
-
-<h1 align="center">Hola <img src="https://i.ytimg.com/vi/if-2M3K1tqk/maxresdefault.jpg">, I'm Anand</h1>
+<h1 align="center">Hola , I'm Anand</h1>
 <h3 align="center">I'm a passionate Python Dev :) </h3>
          
 
