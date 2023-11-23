@@ -13,14 +13,19 @@
 ### Connect with me:
 
 
+[![website](./img/globe-light.svg)](https://hrfcreation.blogspot.com/)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCsMaYg3Y35iEL9BRqjt6IwQ#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCsMaYg3Y35iEL9BRqjt6IwQ#gh-dark-mode-only)
+&nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/anandraj98/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/anandraj98/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/rabiyul-fahim-0b9981155/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/rabiyul-fahim-0b9981155/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/anandraj98/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](]https://www.instagram.com/anandraj98/#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/rabiyulfahim/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](]https://www.instagram.com/rabiyulfahim/#gh-dark-mode-only)
 
 
 ---
