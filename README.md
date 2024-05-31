@@ -4,8 +4,8 @@
 
 # 💫 About Me:
 - 👋 Hi, I’m @anandrajb
-- 👀 I’m interested in python, js
-- 🌱 I work with django , fastapi , tornado , react , vue
+- 👀 I’m interested in py & js
+- 🌱 I work with django , fastapi , react , vue 
 
 
 
