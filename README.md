@@ -3,7 +3,7 @@
 
 
 # 💫 A Little About Me:
-- 👋 Hi, I’m @anandrajb
+- 👋 Hi, I’m Anand Raj
 - 👀 I’m interested in py & js
 - 🌱 I work with django , fastapi , react , vue 
 - :globe_with_meridians: https://anandrajb.vercel.app/
@@ -25,3 +25,10 @@
 
 
 
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+<p align="center">
+  Thanks for visiting my profile! Feel free to star ⭐ some repositories if you find them interesting.
+</p>
